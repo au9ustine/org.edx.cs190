@@ -5,8 +5,21 @@
 #+PRIORITIES: 1 5 3 BLOCK(1) CRITICAL(2) MAJOR(3) MINOR(4) TRIVIAL(5)
 
 * Sprint 3 (0718-0731)
-** [#3] Lab4
-   DEADLINE: <2015-07-25 Sat 15:00>
+** TODO [#3] Lab5
+** DONE [#3] Lab4
+   CLOSED: [2015-07-25 Sat 15:13] DEADLINE: <2015-07-25 Sat 15:00>
+   - CLOSING NOTE [2015-07-25 Sat 15:13] \\
+     Checked and evaluated
+   CLOCK: [2015-07-25 Sat 13:44]--[2015-07-25 Sat 15:10] =>  1:26
+   - Completed part 5 and submitted
+   CLOCK: [2015-07-25 Sat 13:12]--[2015-07-25 Sat 13:40] =>  0:28
+   - Complete part 4
+   CLOCK: [2015-07-25 Sat 11:08]--[2015-07-25 Sat 12:10] =>  1:02
+   - Woring until 4e (WTF...)
+   CLOCK: [2015-07-25 Sat 09:56]--[2015-07-25 Sat 10:23] =>  0:27
+   - Working on 4c
+   CLOCK: [2015-07-25 Sat 09:32]--[2015-07-25 Sat 09:55] =>  0:23
+   - Complete part 3
    CLOCK: [2015-07-25 Sat 02:37]--[2015-07-25 Sat 03:04] =>  0:27
    - Still working 3e
    CLOCK: [2015-07-25 Sat 00:49]--[2015-07-25 Sat 01:35] =>  0:46
