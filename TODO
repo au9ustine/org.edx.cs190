@@ -5,8 +5,20 @@
 #+PRIORITIES: 1 5 3 BLOCK(1) CRITICAL(2) MAJOR(3) MINOR(4) TRIVIAL(5)
 
 * Sprint 3 (0718-0731)
-** INPROGRESS [#3] Lab5
-   DEADLINE: <2015-08-01 Sat 15:00>
+** DONE [#3] Lab5
+   CLOSED: [2015-08-01 Sat 14:52] DEADLINE: <2015-08-01 Sat 15:00>
+   - CLOSING NOTE [2015-08-01 Sat 14:52] \\
+     Not completed.
+   CLOCK: [2015-08-01 Sat 14:10]--[2015-08-01 Sat 14:51] =>  0:41
+   - 4e
+   CLOCK: [2015-08-01 Sat 13:26]--[2015-08-01 Sat 13:53] =>  0:27
+   - on 4c
+   CLOCK: [2015-08-01 Sat 11:24]--[2015-08-01 Sat 11:49] =>  0:25
+   - part 3
+   CLOCK: [2015-08-01 Sat 10:12]--[2015-08-01 Sat 10:57] =>  0:45
+   - part 2
+   CLOCK: [2015-08-01 Sat 09:13]--[2015-08-01 Sat 10:07] =>  0:54
+   - 2a
    CLOCK: [2015-08-01 Sat 00:10]--[2015-08-01 Sat 00:39] =>  0:29
    - Complete part 1
    CLOCK: [2015-07-31 Fri 22:49]--[2015-08-01 Sat 00:05] =>  1:16
